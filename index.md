@@ -1,37 +1,53 @@
-## Welcome to GitHub Pages
+## Удаленная работа HR менеджером. Если тебе лень читать, то это работа не для тебя.
 
-You can use the [editor on GitHub](https://github.com/ez4work/ez4work/edit/gh-pages/index.md) to maintain and preview the content for your website in Markdown files.
 
-Whenever you commit to this repository, GitHub Pages will run [Jekyll](https://jekyllrb.com/) to rebuild the pages in your site, from the content in your Markdown files.
+### Основное
 
-### Markdown
+Мы работает в отлаженой команде по регистрации и верификации аккаунтов на бирже коинлист.
+У нас есть люди, котоыре занимаются безопасность аккаунтов, участием в токенсейлах и поиском новых юзеров.
+Сейчас мы набирает в штат новых HR сотрудников для поиска людей.
 
-Markdown is a lightweight and easy-to-use syntax for styling your writing. It includes conventions for
+Суть работы в поиске людей, для верификации на бирже коинлист. Все что тебе нужно для старта это интернет и ноутбук(в прочем это у тебя уже очевидно есть).
+Работа простая и найти людей для верификации не составляет труда. Кого мы ищем? Ниже приведет список критерий.
 
-```markdown
-Syntax highlighted code block
+Требования к кандидату:
+1. 18+
+2. Паспорт РФ
+3. Иметь телефон с фронтальной(селфи) камерой
 
-# Header 1
-## Header 2
-### Header 3
+Как видишь условия очень простые.
+Для поиска первых людей, лучше всего начать с твоего ближайшего окружения - друзья, знакомые, родственники.
+Для верифации потребуется 10-15 минут времени и прямые руки.
 
-- Bulleted
-- List
 
-1. Numbered
-2. List
 
-**Bold** and _Italic_ and `Code` text
+### Ваши бабки
 
-[Link](url) and ![Image](src)
-```
+За одного верифицированного пользователя, ты получаешь 1000р + 10% прибыли если его аккаунт проходит на токенсейл.
+За день можно легко найти 3-4 человека, готовых пройти верификацию.
+Считаем твои бабки дальше: 3 * 30 * 1000 = 90000 рублей в месяц + 10% с каждого пройденого на токенсейл аккаунта.
 
-For more details see [Basic writing and formatting syntax](https://docs.github.com/en/github/writing-on-github/getting-started-with-writing-and-formatting-on-github/basic-writing-and-formatting-syntax).
+Все выплаты происходят карту любого банка.
 
-### Jekyll Themes
+### БОНУС: Если ты пройдешь верификацию сам, то получаешь 1300 рубрей бонусом сразу на карту.
 
-Your Pages site will use the layout and styles from the Jekyll theme you have selected in your [repository settings](https://github.com/ez4work/ez4work/settings/pages). The name of this theme is saved in the Jekyll `_config.yml` configuration file.
 
-### Support or Contact
 
-Having trouble with Pages? Check out our [documentation](https://docs.github.com/categories/github-pages-basics/) or [contact support](https://support.github.com/contact) and we’ll help you sort it out.
+### Частые вопросы
+
+Q: Мои документы могут использоваться для незаконных целей?
+A: Нет, к твоим документам никто доступа не имеет. Ты сам загружаешь их на биржу и проходишь там верификацию.
+
+A: Где гарантии что ты не кинешь?
+Q: Мы нацелены на долгосрочное сотрудничество, чем больше ты привлечешь людей, тем выгоднее это для нас. Нет смысла в кидке ради 2-3 тыс.
+
+A: Это вообще законно?
+Q: Абсолютно. Биржа Coinlist это официальная криптобиржа, любые операции с ней являются законными.
+
+A: Подойдет другой паспорт?
+Q: Нет, только паспорт РФ и строго 18+
+
+A: Как мне связаться с тобой?
+Q: Вся связь осуществляется через телеграм бота: https://t.me/ez4workbot или @ez4workbot
+
+### Остались еще вопросы? Тогда пиши в телегу в любое время.
